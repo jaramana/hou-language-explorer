@@ -10,7 +10,7 @@ Names and order of languages are based on the the American Community Survey. I a
 Partially inspired by Jill Hubley's [Languages of NYC](https://www.jillhubley.com/project/nyclanguages).
 
 ## Live Demo
-https://ahmadshaibani.com/jaramanas_census/Hou%20Language%20Explorer/
+https://languages.publicworks.nyc
 
 ## License
 Houston Language Explorer is released under the [BSD license](http://opensource.org/licenses/BSD-3-Clause).
